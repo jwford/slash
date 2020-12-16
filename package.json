@@ -1,0 +1,14 @@
+{
+  "name": "slash",
+  "version": "1.0.0",
+  "description": "Register slash commands for a Discord bot.",
+  "main": "slash.js",
+  "scripts": {
+    "start": "node slash.js"
+  },
+  "author": "Jonathan Ford",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
